@@ -3,6 +3,7 @@
 Online documentation collection for FIBLAB, Tsinghua University.
 
 ## Projects
+- [AgentSociety](https://agentsociety.readthedocs.io/en/latest/): Large-scale Social Simulation to Understand Human Behaviors and Society through LLM-driven Agents.
 - [cityproto](https://cityproto.readthedocs.io/en/latest/): A protobuf-based data exchange format for FIBLAB projects.
 - [pycitydata](https://pycitydata.readthedocs.io/en/latest/): City Data Python SDK.
 - [python-moss](https://python-moss.readthedocs.io/en/latest/): MOSS: MObility Simulation System.
